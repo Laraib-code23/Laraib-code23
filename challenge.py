@@ -1,3 +1,5 @@
+#Create a python script that asks the user for their full name, removes any extra space ,ans the display the following ,
+# name in upper and lower case and the first andlast case seprately also the number of character.
 name = str(input("Enter your full name: "))
 print(name.upper())
 print(name.lower())
