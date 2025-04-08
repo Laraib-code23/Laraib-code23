@@ -1,0 +1,30 @@
+print("Welcome to the calculator program!:")
+while True:
+ print("Calculation Operator:")
+ print("1.Addition\n 2.Substraction\n 3.Multiplication\n 4.Divide\n 5.square\n 6.Exit")
+ choice=input("Select an operator for the operation:")
+ if choice=="6":
+     print("Exiting from Calculator!")
+     break
+ a=int(input("Enter first numbera:"))#Here we can also use eval() instead of int but it's a risky
+ b=int(input("Enter second numbera:"))
+ if choice== "1":
+  result= a+b
+ elif choice=="2":
+    result= a-b
+ elif choice=="3":
+     result= a*b
+ elif choice=="4":
+    if b==0:
+      print("Zero Divison not allowed")
+    else:
+     result= a/b
+ elif choice=="5":
+    result= a**b    
+ else:
+    print("Invalid operator for operation. ")   
+    continue
+ print(f"Result:{result}")
+ ques=input("Do you want some more calculation!/n(yes/no)")
+ if ques!="yes":
+     break
