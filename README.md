@@ -1,79 +1,85 @@
-<!-- AI TECH PROFILE -->
+<!-- 🌟 PROFILE BANNER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/laraib-code23/laraib-code23/main/banner.png" width="100%" />
+</p>
 
-<h1 align="center">🤖✨ L A R A I B &nbsp; H U M A ✨🤖</h1>
+<h1 align="center">👩‍💻 Laraib Huma</h1>
 <h3 align="center">AI Engineer • ML Researcher • Deep Learning Practitioner</h3>
 
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=23241&format=gif" width="120"/>
+  <a href="https://www.linkedin.com/in/laraib-huma">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:azesheghori@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/laraib-code23">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🔮 *About Me*
-- 🧠 Passionate *AI/ML Engineer* driven by innovation  
-- 🤖 Skilled in *Computer Vision & Deep Learning*  
-- 🔌 Languages: *Python, Java, C*  
-- 🧰 Tools: *TensorFlow • PyTorch • Streamlit • OpenCV*  
-- ⚡ Loves model building, optimization & explainability  
-- 🚀 Participated in *Lablab AI Hackathon*  
+## 🔮 About Me  
+- 🧠 Passionate *AI & ML Engineer*  
+- 📚 Experience in *Computer Vision, **Deep Learning, **Segmentation, **ML Explainability*  
+- 🛠 Languages: *Python, Java, C*  
+- ⚡ Frameworks: *PyTorch, TensorFlow, Streamlit, OpenCV*  
+- 🚀 Hackathon Participant: *Lablab AI*  
+- 🧪 Internship Projects: Rohmbix AI & DevelopersHub  
 - 📬 Email: *azesheghori@gmail.com*  
-- 🔗 LinkedIn: *Laraib-huma*  
-- 🐙 GitHub: *laraib-code23*
 
 ---
 
-## ⚡ *AI Tech Stack*
-### 🧠 *Machine Learning & Deep Learning*
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=pytorch&logoColor=white)
-![Sklearn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?logo=numpy&logoColor=white)
+## ⚡ Tech Stack  
 
-### 👩‍💻 *Languages*
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)
+### 🧠 AI / ML  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Sklearn-F7931E.svg?logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=opencv&logoColor=white)
 
-### 🛠 *Frameworks & Tools*
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?logo=streamlit&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black)
+### 👩‍💻 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00.svg?logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white)
 
----
-
-## 🧩 *Featured AI Projects*
-🚦 *Smart Blind Stick (CV-based Navigation)*  
-😴 *Anti-Sleep Glasses using Eye Detection*  
-🤖 *AI Student Support Chatbot*  
-🎮 *3D Game Development (Unity + Scripts)*  
-📊 *Car Price Prediction ML Model*
+### 🛠 Tools  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black)
 
 ---
 
-## 📈 *AI Powered GitHub Stats*
+## 🚀 Featured Projects  
+
+### 🔥 My Repositories  
+| Project | Description | Link |
+|--------|-------------|------|
+| 🤖 *AI Automation* | Custom automation using AI workflows | https://github.com/laraib-code23/AI-Automation |
+| 🚗 *Car Price Prediction* | ML model with Streamlit interface | https://github.com/laraib-code23/car_price_prediction |
+| 🧠 *AI Bootcamp* | ML/DL learning projects | https://github.com/laraib-code23/AI-bootcamp |
+| 🏢 *Rohmbix Internship* | AI internship tasks & models | https://github.com/laraib-code23/Rohmbix-internship-project |
+| 📘 *ML Projects* | Machine learning algorithms from scratch | https://github.com/laraib-code23/machine_learning_project |
+
+---
+
+## 📊 GitHub Stats  
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=laraib-code23&show_icons=true&theme=react" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laraib-code23&layout=compact&theme=react" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=laraib-code23&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laraib-code23&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧬 Neural Activity (Contribution Snake)
+## 🔥 Contribution Graph  
 <p align="center">
-  <img src="https://github.com/laraib-code23/laraib-code23/blob/output/github-snake.svg"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laraib-code23&theme=react-dark" />
 </p>
 
 ---
 
-## 🔥 Visitors
+## 👀 Profile Visitors  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=laraib-code23&style=for-the-badge&color=blue" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.icons8.com/?size=100&id=iGCCE2LlEF97&format=gif" width="100"/>
 </p>
