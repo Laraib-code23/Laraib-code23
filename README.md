@@ -1,6 +1,6 @@
 <!-- 🌟 PROFILE BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/laraib-code23/laraib-code23/main/banner.png" width="100%" />
+  <img src="https://github.com/Laraib-code23/Laraib-code23/blob/main/Banner.jpg" width="100%" />
 </p>
 
 <h1 align="center">👩‍💻 Laraib Huma</h1>
