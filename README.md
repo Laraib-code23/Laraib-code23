@@ -57,7 +57,6 @@
 | Project | Description | Link |
 |--------|-------------|------|
 | 🤖 *AI Automation* | Custom automation using AI workflows | https://github.com/laraib-code23/AI-Automation |
-| 🚗 *Car Price Prediction* | ML model with Streamlit interface | https://github.com/laraib-code23/car_price_prediction |
 | 🧠 *AI Bootcamp* | ML/DL learning projects | https://github.com/laraib-code23/AI-bootcamp |
 | 🏢 *Rohmbix Internship* | AI internship tasks & models | https://github.com/laraib-code23/Rohmbix-internship-project |
 | 📘 *ML Projects* | Machine learning algorithms from scratch | https://github.com/laraib-code23/machine_learning_project |
