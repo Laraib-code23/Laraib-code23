@@ -1,10 +1,6 @@
-<!-- 🌟 PROFILE BANNER -->
-<p align="center">
-  <img src="https://github.com/Laraib-code23/Laraib-code23/blob/main/Banner.jpg" width="100%" />
-</p>
-
-<h1 align="center">👩‍💻 Laraib Huma</h1>
-<h3 align="center">AI Engineer • ML Researcher • Deep Learning Practitioner</h3>
+<h1 align="center">🌸 Hi, I'm Laraib Huma</h1>
+<h3 align="center">🎓 Final Year Computer Science Student | 🤖 AI & Machine Learning Enthusiast</h3>
+<p align="center">✨ Building intelligent systems to solve real-world problems</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/laraib-huma">
@@ -20,65 +16,96 @@
 
 ---
 
-## 🔮 About Me  
-- 🧠 Passionate *AI & ML Engineer*  
-- 📚 Experience in *Computer Vision, **Deep Learning, **Segmentation, **ML Explainability*  
-- 🛠 Languages: *Python, Java, C*  
-- ⚡ Frameworks: *PyTorch, TensorFlow, Streamlit, OpenCV*  
-- 🚀 Hackathon Participant: *Lablab AI*  
-- 🧪 Internship Projects: Rohmbix AI & DevelopersHub  
-- 📬 Email: *azesheghori@gmail.com*  
+## 🌷 About Me  
 
----
+I am an aspiring AI/ML Engineer passionate about developing impactful solutions using Artificial Intelligence.  
+Being born in April 🌱, I embrace growth, creativity, and innovation — which reflects in my projects and continuous learning mindset.  
 
-## ⚡ Tech Stack  
+💡 My interests include:  
+- Machine Learning  
+- Computer Vision  
+- AI Assistants  
+- Smart Systems & Automation  
 
-### 🧠 AI / ML  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Sklearn-F7931E.svg?logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=opencv&logoColor=white)
-
-### 👩‍💻 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00.svg?logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white)
-
-### 🛠 Tools  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black)
+🎯 I aim to pursue advanced research in AI and contribute to technologies that improve human life.  
 
 ---
 
 ## 🚀 Featured Projects  
 
-### 🔥 My Repositories  
-| Project | Description | Link |
-|--------|-------------|------|
-| 🤖 *AI Automation* | Custom automation using AI workflows | https://github.com/laraib-code23/AI-Automation |
-| 🧠 *AI Bootcamp* | ML/DL learning projects | https://github.com/laraib-code23/AI-bootcamp |
-| 🏢 *Rohmbix Internship* | AI internship tasks & models | https://github.com/laraib-code23/Rohmbix-internship-project |
-| 📘 *ML Projects* | Machine learning algorithms from scratch | https://github.com/laraib-code23/machine_learning_project |
+### 🔹 Medical Chatbot 🏥  
+📌 AI-powered chatbot designed to assist users with basic medical guidance and queries  
+---
+### 🔹 Civic System (Nation ↔ Government Bridge) 🌍  📌 A digital platform aimed at improving communication between citizens and government services  
+
+---
+### 🔹 Voice Assistant 🎙  
+📌 AI-based assistant capable of performing tasks like web search, app control, and automation  
+
+### 🔹 Sleep Guard for Laptop 💻😴  
+📌 System designed to monitor user activity and prevent unhealthy usage patterns  
+     To see the code explore my account or repo
+## 💼 More Work  
+
+📌 Explore all my projects here:  
+🔗 https://github.com/laraib-code23?tab=repositories  
+
+---
+
+## 🧠 Skills  
+
+💻 Python  
+📊 Machine Learning & Deep Learning  
+👁 Computer Vision (OpenCV)  
+🔌 Arduino & Embedded Systems  
+🌐 Git, Streamlit  
 
 ---
 
 ## 📊 GitHub Stats  
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=laraib-code23&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laraib-code23&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=laraib-code23&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laraib-code23&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
 ## 🔥 Contribution Graph  
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laraib-code23&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laraib-code23&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
 
-## 👀 Profile Visitors  
+## 🏆 Achievements  
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=laraib-code23&style=for-the-badge&color=blue" />
+  <img src="https://github-profile-trophy.vercel.app/?username=laraib-code23&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
+
+---
+
+## 📈 Currently Working On  
+
+🔹 Improving AI Voice Assistant (automation + personalization)  
+🔹 Exploring Explainable AI (XAI)  
+🔹 Enhancing real-world deployment of ML systems  
+
+---
+
+## 📫 Connect With Me  
+
+📧 <a href="mailto:azesheghori@gmail.com">azesheghori@gmail.com</a>  
+💼 LinkedIn: https://www.linkedin.com/in/laraib-huma  
+
+---
+
+## 🌟 Vision  
+
+> To build intelligent systems that are not only smart but also meaningful and accessible to everyone.  
+
+---
+
+⭐ <i>Thank you for visiting my profile!</i>
