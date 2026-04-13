@@ -36,7 +36,8 @@ Being born in April 🌱, I embrace growth, creativity, and innovation — which
 ### 🔹 Medical Chatbot 🏥  
 📌 AI-powered chatbot designed to assist users with basic medical guidance and queries  
 ---
-### 🔹 Civic System (Nation ↔ Government Bridge) 🌍  📌 A digital platform aimed at improving communication between citizens and government services  
+### 🔹 Civic System (Nation ↔ Government Bridge) 🌍 
+📌 A digital platform aimed at improving communication between citizens and government services  
 
 ---
 ### 🔹 Voice Assistant 🎙  
